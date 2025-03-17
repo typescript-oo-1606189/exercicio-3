@@ -1,0 +1,15 @@
+{
+  "name": "exercicio-3",
+  "version": "1.0.0",
+  "description": "## Objetivo Demonstrar o uso de `classes` para criar objetos com comportamentos em TypeScript, além de implementar diferentes comportamentos para métodos comuns.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.8.2"
+  }
+}
